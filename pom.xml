@@ -11,6 +11,22 @@
     <description>Scala Coursera project by Martin Odersky 2013</description>
     <inceptionYear>2014</inceptionYear>
     <url>https://github.com/vaibhavbarmy/Scala-Coursera</url>
+    <developers>
+        <developer>
+            <id>vaibhavbarmy</id>
+            <name>Vaibhav Agrawal</name>
+            <email>vaibhavbarmy@gmail.com</email>
+            <timezone>+5.5</timezone>
+        </developer>
+    </developers>
+    <contributors>
+        <contributor>
+            <name>!MM()RT@L</name>
+            <email>immoisdevil@gmail.com</email>
+            <url>https://github.com/immoisdevil</url>
+            <timezone>+5.5</timezone>
+        </contributor>
+    </contributors>
 
     <properties>
         <scala.version>2.11.0-M8</scala.version>
