@@ -4,3 +4,6 @@ The following are the Instructions to be used for the this Project:
 
 1) Whenever you have made a method type /** before it and press Enter it will automatically generate JavaDoc stubs for that method
    Source url : "http://www.jetbrains.com/idea/features/code_generation.html"
+2) Each package in the project has the codes for the corresponding weeks
+3) Each file in that package corresponds to each session and codes for that session
+3) Each package contains a Mapping.txt file which is a Map of concepts and methods(separated by :) with the session number
