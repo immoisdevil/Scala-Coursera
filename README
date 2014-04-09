@@ -1,1 +1,6 @@
 This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+
+The following are the Instructions to be used for the this Project:
+
+1) Whenever you have made a method type /** before it and press Enter it will automatically generate JavaDoc stubs for that method
+   Source url : "http://www.jetbrains.com/idea/features/code_generation.html"

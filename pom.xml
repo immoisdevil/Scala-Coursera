@@ -10,7 +10,7 @@
     <name>${project.artifactId}</name>
     <description>Scala Coursera project by Martin Odersky 2013</description>
     <inceptionYear>2014</inceptionYear>
-    <url></url>
+    <url>https://github.com/vaibhavbarmy/Scala-Coursera</url>
 
     <properties>
         <scala.version>2.11.0-M8</scala.version>
