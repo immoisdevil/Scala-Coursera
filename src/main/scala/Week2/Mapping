@@ -1,1 +1,5 @@
 Session1 -> Higher order functions : sumInts, sum cubes , sum facts
+Session2 -> Currying, multiple param, tail recursive : sumCurried, sumMultParams, productCurried, productMultParams, mapReduce
+Session3 -> fixed point and avg damping
+Session5 -> Class Rational : add neg sub max less
+Session7 -> infix operators and prefix operators: Class Rational
