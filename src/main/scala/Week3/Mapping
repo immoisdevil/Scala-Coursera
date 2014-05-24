@@ -1,0 +1,2 @@
+Session1 -> abstract classes: IntSet, Empty, NonEmpty, contains
+Session3 -> trait : cons, nil, singleton , nth
