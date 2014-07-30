@@ -1,0 +1,2 @@
+Session2 -> mergeSort using pair match: merge , mergePairMatch and mergeSort
+Session3 -> generic functions , implicit parameters (ordering) , math.Ordering comparator : mergeSort, mergeSortOrdering, mergeSortOrderingImplicit
